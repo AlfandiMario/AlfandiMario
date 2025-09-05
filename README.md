@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I'm Mario Alfandi. Nice to meeet you.
+I'm Mario. Nice to meeet you.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="php" title="php" width="21px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
